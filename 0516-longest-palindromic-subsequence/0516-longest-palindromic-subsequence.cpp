@@ -16,7 +16,7 @@ return dp[i][j]=max(t,tt);
     
 }
     int longestPalindromeSubseq(string s) {
-        if(s.size()==1) return 1;
+        // if(s.size()==1) return 1;
         vector<vector<int>> dp(s.size(),vector<int>(s.size(),-1));
         return fun(0,s.size()-1,s,dp);
     }
