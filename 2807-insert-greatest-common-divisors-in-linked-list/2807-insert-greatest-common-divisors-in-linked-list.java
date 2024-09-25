@@ -21,13 +21,11 @@ class Solution {
         return head;
     }
     int gcd(int a,int b){
-        int result = Math.min(a, b);
-        while (result > 0) {
-            if (a % result == 0 && b % result == 0) {
-                break;
-            }
-            result--;
+        while(a>0 && b>0){
+            if(a>b) a=a%b;
+            else b=b%a;
         }
-        return result;
+        if(a==0) return b;
+        return a;
     }
 }
