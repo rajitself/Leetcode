@@ -1,6 +1,7 @@
 class Solution {
 public:
     int maximumGap(vector<int>& nums) {
+        //this is not the appropriate solution...
         sort(nums.begin(),nums.end());
         int maxi = 0;
         if(nums.size()<2){
