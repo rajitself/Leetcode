@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/rajitself/Leetcode/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/rajitself/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajitself/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rajitself/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -33,4 +34,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/rajitself/Leetcode/tree/master/0134-gas-station) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rajitself/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+## Sorting
+|  |
+| ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rajitself/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 <!---LeetCode Topics End-->
