@@ -19,10 +19,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajitself/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rajitself/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajitself/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rajitself/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Design
 |  |
 | ------- |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rajitself/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3893-generate-tag-for-video-caption](https://github.com/rajitself/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Simulation
 |  |
@@ -52,4 +55,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/rajitself/Leetcode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+## Counting
+|  |
+| ------- |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rajitself/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 <!---LeetCode Topics End-->
