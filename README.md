@@ -39,4 +39,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rajitself/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+## String
+|  |
+| ------- |
+| [3893-generate-tag-for-video-caption](https://github.com/rajitself/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
+## Simulation
+|  |
+| ------- |
+| [3893-generate-tag-for-video-caption](https://github.com/rajitself/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
 <!---LeetCode Topics End-->
