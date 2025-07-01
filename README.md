@@ -64,4 +64,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/rajitself/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rajitself/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+## Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/rajitself/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/rajitself/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/rajitself/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/rajitself/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 <!---LeetCode Topics End-->
