@@ -68,10 +68,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/rajitself/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [1008-binary-tree-cameras](https://github.com/rajitself/Leetcode/tree/master/1008-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/rajitself/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [1008-binary-tree-cameras](https://github.com/rajitself/Leetcode/tree/master/1008-binary-tree-cameras) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -80,4 +82,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/rajitself/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [1008-binary-tree-cameras](https://github.com/rajitself/Leetcode/tree/master/1008-binary-tree-cameras) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1008-binary-tree-cameras](https://github.com/rajitself/Leetcode/tree/master/1008-binary-tree-cameras) |
 <!---LeetCode Topics End-->
