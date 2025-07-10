@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/rajitself/Leetcode/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/rajitself/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajitself/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rajitself/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/rajitself/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rajitself/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/rajitself/Leetcode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
@@ -41,11 +42,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/rajitself/Leetcode/tree/master/0134-gas-station) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rajitself/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rajitself/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/rajitself/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Sorting
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rajitself/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rajitself/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/rajitself/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## String
@@ -90,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1008-binary-tree-cameras](https://github.com/rajitself/Leetcode/tree/master/1008-binary-tree-cameras) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rajitself/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
