@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/rajitself/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajitself/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/rajitself/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/rajitself/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/rajitself/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/rajitself/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rajitself/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3893-generate-tag-for-video-caption](https://github.com/rajitself/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
@@ -97,4 +99,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rajitself/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/rajitself/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
