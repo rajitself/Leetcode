@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rajitself/Leetcode/tree/master/0036-valid-sudoku) |
 | [0134-gas-station](https://github.com/rajitself/Leetcode/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/rajitself/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajitself/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rajitself/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/rajitself/Leetcode/tree/master/0036-valid-sudoku) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajitself/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/rajitself/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/rajitself/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -103,4 +105,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rajitself/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/rajitself/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
